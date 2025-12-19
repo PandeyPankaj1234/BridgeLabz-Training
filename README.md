@@ -8,3 +8,5 @@ Practiced Git Bash commands. Initialized local repository and connected it to a 
 
 **19-Dec-2025 (Friday)**:
 Solved basic Java practice problems to strengthen core concepts. Practiced input/output, variables, data types, conditional statements, and simple logic-based programs.
+Studied control flow documentation. Solved and submitted control flow Level 1 ,Level 2 and Level 3 practice problems.
+
