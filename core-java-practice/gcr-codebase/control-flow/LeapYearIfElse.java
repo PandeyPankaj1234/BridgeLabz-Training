@@ -3,6 +3,7 @@ import java.util.*;
 class LeapYearIfElse {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        System.out.print("Enter a year: ");
         int year = sc.nextInt();
         if (year >= 1582) {
             if (year % 400 == 0)

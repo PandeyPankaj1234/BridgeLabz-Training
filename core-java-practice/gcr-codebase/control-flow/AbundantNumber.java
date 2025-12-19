@@ -3,6 +3,7 @@ import java.util.*;
 class AbundantNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        System.out.print("Enter a number: ");
         int number = sc.nextInt();
         int sumOfDivisors = 0;
         for (int divisor = 1; divisor < number; divisor++) {

@@ -3,6 +3,7 @@ import java.util.*;
 class ArmstrongNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        System.out.print("Enter a number: ");
         int number = sc.nextInt();
         int originalNumber = number;
         int sumOfCubes = 0;
