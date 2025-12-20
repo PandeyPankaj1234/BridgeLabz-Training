@@ -1,21 +1,78 @@
-**1. Week 1: Git, GitHub Setup and Core Java Basics**
+# 🚀 Week 1: Git, GitHub Setup & Core Java Basics
 
-**17-Dec-2025 (Wednesday):**
-Installed and configured Git on the local system. Created GitHub account and explored GitHub interface. Learned basic concepts of version control, repositories, and commits.
+> **Focus:** Version Control Fundamentals + Core Java Foundation  
+> **Duration:** 17 Dec 2025 – 20 Dec 2025  
 
-**18-Dec-2025 (Thursday):**
-Practiced Git Bash commands. Initialized local repository and connected it to a remote GitHub repository. Performed add, commit, push, and pull operations to understand Git workflow.
-Solved basic 5 Leetcode Problems.
-Link:https://github.com/PandeyPankaj1234/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase
+---
 
-**19-Dec-2025 (Friday)**:
-Solved basic Java practice problems to strengthen core concepts. Practiced input/output, variables, data types, conditional statements, and simple logic-based programs.
-Link:https://github.com/PandeyPankaj1234/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements
+## 📅 17-Dec-2025 (Wednesday)
+### 🔧 Git & GitHub Setup
+- ✅ Installed and configured **Git** on local system  
+- 🌐 Created **GitHub account** and explored the interface  
+- 📚 Learned core concepts:
+  - Version Control
+  - Repositories
+  - Commits
 
-Studied control flow documentation. Solved and submitted control flow Level 1 ,Level 2 and Level 3 practice problems.
-Link:https://github.com/PandeyPankaj1234/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow
+---
 
-**20-Dec-2025 (Saturday):**
-Solved scenario-based problems and pushed them into the git repository.
+## 📅 18-Dec-2025 (Thursday)
+### 💻 Git Bash & Practice
+- 🖥️ Practiced **Git Bash commands**
+- 📁 Initialized a local repository
+- 🔗 Connected local repo with **remote GitHub repository**
+- 🔄 Performed:
+  - `git add`
+  - `git commit`
+  - `git push`
+  - `git pull`
+- 🧠 Solved **5 basic LeetCode problems** to improve logic
 
+🔗 **Practice Code:**  
+👉 [leet-code-codebase](https://github.com/PandeyPankaj1234/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
 
+---
+
+## 📅 19-Dec-2025 (Friday)
+### ☕ Core Java Fundamentals
+- 🧩 Solved **basic Java practice problems**
+- 🧪 Practiced:
+  - Input / Output
+  - Variables & Data Types
+  - Conditional Statements
+  - Logic-based programs
+
+🔗 **Java Practice:**  
+👉 [programming-elements](https://github.com/PandeyPankaj1234/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
+
+### 🔁 Control Flow Mastery
+- 📖 Studied **Control Flow documentation**
+- 🏆 Solved and submitted:
+  - Level 1
+  - Level 2
+  - Level 3 control flow problems
+
+🔗 **Control Flow Code:**  
+👉 [control-flow](https://github.com/PandeyPankaj1234/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
+
+---
+
+## 📅 20-Dec-2025 (Saturday)
+### 🌍 Scenario-Based Problem Solving
+- 🧠 Solved **real-world scenario-based Java problems**
+- 📤 Pushed all solutions to GitHub
+
+🔗 **Scenario-Based Programs:**  
+👉 [scenario-based](https://github.com/PandeyPankaj1234/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+
+---
+
+## ✨ Week 1 Highlights
+- ✔️ Strong understanding of **Git & GitHub workflow**
+- ✔️ Improved **Core Java fundamentals**
+- ✔️ Hands-on experience with **control flow & logic building**
+- ✔️ Consistent daily coding & GitHub commits  
+
+---
+
+📌 *More weeks and advanced topics coming soon...*
