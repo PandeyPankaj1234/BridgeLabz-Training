@@ -15,3 +15,7 @@ Link:https://github.com/PandeyPankaj1234/BridgeLabz-Training/tree/core-java-prac
 Studied control flow documentation. Solved and submitted control flow Level 1 ,Level 2 and Level 3 practice problems.
 Link:https://github.com/PandeyPankaj1234/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow
 
+**20-Dec-2025 (Saturday):**
+Solved scenario-based problems and pushed them into the git repository.
+
+
