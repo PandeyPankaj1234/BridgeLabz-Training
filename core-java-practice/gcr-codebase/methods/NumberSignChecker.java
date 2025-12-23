@@ -4,12 +4,15 @@ public class NumberSignChecker {
 
     // Method returns 1, -1 or 0
     static int checkNumber(int value) {
-        if (value > 0)
+        if (value > 0){
             return 1;
-        else if (value < 0)
+        }
+        else if (value < 0){
             return -1;
-        else
+        }
+        else{
             return 0;
+        }
     }
 
     public static void main(String[] args) {
@@ -20,11 +23,15 @@ public class NumberSignChecker {
 
         int result = checkNumber(num);
 
-        if (result == 1)
+        if (result == 1){
             System.out.println("Number is Positive");
-        else if (result == -1)
+        }
+        else if (result == -1){
             System.out.println("Number is Negative");
-        else
+        }
+        else{
             System.out.println("Number is Zero");
+        }
+        sc.close();
     }
 }

@@ -18,9 +18,11 @@ public class SpringSeason {
         int month = Integer.parseInt(args[0]);
         int day = Integer.parseInt(args[1]);
 
-        if (isSpringSeason(month, day))
+        if (isSpringSeason(month, day)){
             System.out.println("Its a Spring Season");
-        else
+        }
+        else{
             System.out.println("Not a Spring Season");
+        }
     }
 }

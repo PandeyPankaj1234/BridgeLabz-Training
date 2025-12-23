@@ -5,11 +5,13 @@ public class LeapYearChecker {
     // Method to check leap year
     static boolean isLeapYear(int year) {
 
-        if (year < 1582)
+        if (year < 1582){
             return false;
+        }
 
-        if ((year % 4 == 0 && year % 100 != 0) || year % 400 == 0)
+        if ((year % 4 == 0 && year % 100 != 0) || year % 400 == 0){
             return true;
+        }
 
         return false;
     }
@@ -20,10 +22,12 @@ public class LeapYearChecker {
         System.out.print("Enter a year: ");
         int year = sc.nextInt();
 
-        if (isLeapYear(year))
+        if (isLeapYear(year)){
             System.out.println("Year is a Leap Year");
-        else
+        }
+        else{
             System.out.println("Year is not a Leap Year");
+        }
         sc.close();
     }
 }

@@ -10,17 +10,20 @@ public class NumberChecker {
         String value = String.valueOf(Math.abs(number));
         int[] digits = new int[value.length()];
 
-        for (int i = 0; i < value.length(); i++)
+        for (int i = 0; i < value.length(); i++){
             digits[i] = value.charAt(i) - '0';
+        }
 
         return digits;
     }
 
     // Duck number check (contains zero)
     public static boolean isDuckNumber(int[] digits) {
-        for (int d : digits)
-            if (d == 0)
+        for (int d : digits){
+            if (d == 0){
                 return true;
+            }
+        }
         return false;
     }
 
@@ -29,8 +32,9 @@ public class NumberChecker {
         int power = digits.length;
         int sum = 0;
 
-        for (int d : digits)
+        for (int d : digits){
             sum += Math.pow(d, power);
+        }
 
         return sum == number;
     }
@@ -44,7 +48,8 @@ public class NumberChecker {
             if (d > largest) {
                 secondLargest = largest;
                 largest = d;
-            } else if (d > secondLargest && d != largest) {
+            }
+            else if (d > secondLargest && d != largest) {
                 secondLargest = d;
             }
         }
@@ -62,7 +67,8 @@ public class NumberChecker {
             if (d < smallest) {
                 secondSmallest = smallest;
                 smallest = d;
-            } else if (d < secondSmallest && d != smallest) {
+            } 
+            else if (d < secondSmallest && d != smallest) {
                 secondSmallest = d;
             }
         }

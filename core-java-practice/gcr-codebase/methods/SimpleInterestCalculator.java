@@ -28,5 +28,6 @@ public class SimpleInterestCalculator {
                 " for Principal " + principal +
                 ", Rate of Interest " + rate +
                 " and Time " + time);
+        sc.close();        
     }
 }

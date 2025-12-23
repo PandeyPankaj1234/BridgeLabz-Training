@@ -4,8 +4,9 @@ public class NaturalNumberSum {
 
     // Recursive method
     static int recursiveSum(int n) {
-        if (n == 0)
+        if (n == 0){
             return 0;
+        }
         return n + recursiveSum(n - 1);
     }
 
@@ -31,9 +32,12 @@ public class NaturalNumberSum {
         System.out.println("Sum using recursion: " + recursionResult);
         System.out.println("Sum using formula: " + formulaResult);
 
-        if (recursionResult == formulaResult)
+        if (recursionResult == formulaResult){
             System.out.println("Both results are correct and equal");
-        else
+        }
+        else{
             System.out.println("Results do not match");
+        }
+        sc.close();
     }
 }

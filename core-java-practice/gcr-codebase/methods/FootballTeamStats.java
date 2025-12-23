@@ -5,8 +5,9 @@ public class FootballTeamStats {
     // Method to calculate sum of heights
     static int calculateSum(int[] heights) {
         int total = 0;
-        for (int h : heights)
+        for (int h : heights){
             total += h;
+        }
         return total;
     }
 
@@ -18,18 +19,22 @@ public class FootballTeamStats {
     // Method to find shortest height
     static int findShortest(int[] heights) {
         int minHeight = heights[0];
-        for (int h : heights)
-            if (h < minHeight)
+        for (int h : heights){
+            if (h < minHeight){
                 minHeight = h;
+            }
+        }
         return minHeight;
     }
 
     // Method to find tallest height
     static int findTallest(int[] heights) {
         int maxHeight = heights[0];
-        for (int h : heights)
-            if (h > maxHeight)
+        for (int h : heights){
+            if (h > maxHeight){
                 maxHeight = h;
+            }
+        }
         return maxHeight;
     }
 
@@ -39,12 +44,14 @@ public class FootballTeamStats {
         Random random = new Random();
 
         // Generate random heights (150–250 cm)
-        for (int i = 0; i < heights.length; i++)
+        for (int i = 0; i < heights.length; i++){
             heights[i] = 150 + random.nextInt(101);
+        }
 
         System.out.println("Player Heights:");
-        for (int h : heights)
+        for (int h : heights){
             System.out.print(h + " ");
+        }
 
         System.out.println("\nShortest Height: " + findShortest(heights));
         System.out.println("Tallest Height: " + findTallest(heights));
