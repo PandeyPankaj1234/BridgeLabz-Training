@@ -60,19 +60,79 @@
 ## 📅 20-Dec-2025 (Saturday)
 ### 🌍 Scenario-Based Problem Solving
 - 🧠 Solved **real-world scenario-based Java problems**
+- 📘 Studied **Array documentation**
+- 🧠 Learned:
+1D & 2D Arrays
+User-defined input using Scanner
+Traversing arrays using loops
 - 📤 Pushed all solutions to GitHub
 
 🔗 **Scenario-Based Programs:**  
 👉 [scenario-based](https://github.com/PandeyPankaj1234/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 
+
+🔗 **Array Programs:**
+
+👉 [arrays](https://github.com/PandeyPankaj1234/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
+
 ---
 
 ## ✨ Week 1 Highlights
-- ✔️ Strong understanding of **Git & GitHub workflow**
-- ✔️ Improved **Core Java fundamentals**
-- ✔️ Hands-on experience with **control flow & logic building**
-- ✔️ Consistent daily coding & GitHub commits  
+
+✔️ Solid understanding of Git & GitHub workflow
+
+✔️ Strong Core Java basics
+
+✔️ Clear concepts of control flow
+
+✔️ Hands-on practice with arrays (1D & 2D)
+
+✔️ Improved logical thinking & problem solving
 
 ---
+
+# 🚀 Week 2: Strings & Methods
+
+> **Focus:** String Fundamentals + Basic OOP Concepts 
+> **Duration:** 22 Dec 2025 – 26 Dec 2025
+
+---
+
+## 📅 23-Dec-2025 (Monday)
+### 🔤 Strings in Java
+-📘 Studied **String fundamentals**
+
+-🧠 Learned:
+  -String creation
+  -Immutability
+  -Manual string comparison vs equals()
+
+📤 Uploaded all solutions to GitHub
+
+🔗 **Strings Code:**
+
+👉 [strings](https://github.com/PandeyPankaj1234/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
+
+---
+
+# 📅 24-Dec-2025 (Tuesday)
+### 🧩 Methods & String Extras
+-📘 Learned **User Defined Methods**
+
+-🧠 Practiced:
+    -Parameters & return values
+    -Modular coding style
+
+📤 Pushed all programs to GitHub
+
+🔗 **Methods:**
+
+👉 [methods](https://github.com/PandeyPankaj1234/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
+
+
+🔗**String Extras:**
+
+👉[extras](https://github.com/PandeyPankaj1234/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras)
+
 
 📌 *More weeks and advanced topics coming soon...*
