@@ -93,46 +93,89 @@ Traversing arrays using loops
 
 # 🚀 Week 2: Strings & Methods
 
-> **Focus:** String Fundamentals + Basic OOP Concepts 
+> **Focus:** String Fundamentals + Basic OOP Concepts  
 > **Duration:** 22 Dec 2025 – 26 Dec 2025
 
 ---
 
 ## 📅 23-Dec-2025 (Monday)
 ### 🔤 Strings in Java
--📘 Studied **String fundamentals**
-
--🧠 Learned:
-  -String creation
-  -Immutability
-  -Manual string comparison vs equals()
+- 📘 Studied **String fundamentals**
+- 🧠 Learned:
+  - String creation and initialization
+  - String immutability
+  - Manual string comparison vs `equals()` method
+- ✍️ Practiced real-world string manipulation programs
 
 📤 Uploaded all solutions to GitHub
 
-🔗 **Strings Code:**
-
+🔗 **Strings Code:**  
 👉 [strings](https://github.com/PandeyPankaj1234/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
 
 ---
 
-# 📅 24-Dec-2025 (Tuesday)
+## 📅 24-Dec-2025 (Tuesday)
 ### 🧩 Methods & String Extras
--📘 Learned **User Defined Methods**
+- 📘 Learned **User Defined Methods in Java**
+- 🧠 Practiced:
+  - Method parameters & return values
+  - Modular coding style
+  - Calling methods from other methods
+- ✍️ Pushed all programs to GitHub
 
--🧠 Practiced:
-    -Parameters & return values
-    -Modular coding style
-
-📤 Pushed all programs to GitHub
-
-🔗 **Methods:**
-
+🔗 **Methods Code:**  
 👉 [methods](https://github.com/PandeyPankaj1234/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
 
+### ✨ String Extras
+- 📘 Learned additional String methods
+- 🧠 Covered:
+  - `charAt()`, `substring()`, `toCharArray()`
+  - `split()`, `length()`, and string comparison
+- ✍️ Practiced solving problems using these methods
 
-🔗**String Extras:**
+🔗 **String Extras Code:**  
+👉 [extras](https://github.com/PandeyPankaj1234/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras)
 
-👉[extras](https://github.com/PandeyPankaj1234/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras)
+---
+
+## 📅 24-Dec-2025 (Wednesday)
+### 🧱 Java OOP Basics (Class, Object & Constructors)
+- 📘 Studied **Java Class and Object** concepts  
+- 🧠 Learned:
+  - How classes act as blueprints
+  - Object creation using `new` keyword
+- 🔧 Practiced writing **real-world class-based programs**
+
+### 🏗️ Java Constructors
+- ✅ Learned **Constructors in Java**
+- 🧩 Covered:
+  - Default constructor
+  - Parameterized constructor
+  - Constructor overloading
+- 🛠️ Practiced initializing object data using constructors
+
+### 🔍 Instance vs Class Variables
+- 📌 Understood difference between:
+  - **Instance variables** (object-level data)
+  - **Class / static variables** (shared data)
+- 🧪 Wrote programs to observe memory behavior and usage
+
+### 🔐 Access Modifiers in Java
+- 🔑 Studied **Access Modifiers**:
+  - `public`
+  - `private`
+  - `protected`
+  - default (package-private)
+- 🧠 Learned scope, visibility, and best practices
+- ✍️ Practiced examples to control data access
+
+🔗 **OOP Practice Code:**  
+👉 [class-object](https://github.com/PandeyPankaj1234/BridgeLabz-Training/tree/oops/oops/gcr-codebase/class-object)
+
+👉 [constructor](https://github.com/PandeyPankaj1234/BridgeLabz-Training/tree/oops/oops/gcr-codebase/constructors)
+
+---
+
 
 
 📌 *More weeks and advanced topics coming soon...*
