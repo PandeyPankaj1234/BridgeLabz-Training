@@ -91,7 +91,7 @@ Traversing arrays using loops
 
 ---
 
-# 🚀 Week 2: Strings & Methods
+# 🚀 Week 2: OOPs Concepts , Strings & its Methods
 
 > **Focus:** String Fundamentals + Basic OOP Concepts  
 > **Duration:** 22 Dec 2025 – 26 Dec 2025
@@ -175,6 +175,52 @@ Traversing arrays using loops
 👉 [constructor](https://github.com/PandeyPankaj1234/BridgeLabz-Training/tree/oops/oops/gcr-codebase/constructors)
 
 ---
+
+## 📅 26-Dec-2025 (Friday)
+### 🧱 OOPs Design Principles
+- 📘 Studied **Object-Oriented Design Principles**
+- 🧠 Learned concepts:
+  - Encapsulation
+  - Abstraction
+  - Code reusability
+  - Maintainable & scalable design
+- ✍️ Implemented design principles with practical Java code examples
+- 📤 Pushed all **code** to GitHub
+
+🔗 **OOPs Design Principles Code:**  
+👉 [oops-design-principle](https://github.com/PandeyPankaj1234/BridgeLabz-Training/tree/oops/oops/gcr-codebase/oops-design-principle)
+
+### 🏛️ OOPs Four Pillars
+- 📘 Studied documentation of **4 Pillars of OOPs**
+- 🧠 Covered:
+  - Encapsulation
+  - Abstraction
+  - Inheritance
+  - Polymorphism
+- ✍️ Practiced and implemented Java programs for each pillar
+- 📤 Uploaded all **code** to GitHub
+
+🔗 **oops-pillars Code:**  
+👉 [oops-pillars](https://github.com/PandeyPankaj1234/BridgeLabz-Training/tree/oops/oops/gcr-codebase/oops-pillars)
+
+---
+
+## ✨ Week 2 Highlights
+- ✔️ Strong understanding of **Java Strings** and string manipulation
+- ✔️ Clear concept of **User Defined Methods** and modular coding
+- ✔️ Practiced **String extras** and comparison with built-in methods
+- ✔️ Studied **OOPs Design Principles** with theory and code examples
+- ✔️ Understood and implemented **4 Pillars of OOPs**:
+  - Encapsulation
+  - Abstraction
+  - Inheritance
+  - Polymorphism
+- ✔️ Improved **clean code practices** and object-oriented thinking
+- ✔️ Consistent **GitHub commits** with structured documentation
+
+---
+
+
 
 
 
