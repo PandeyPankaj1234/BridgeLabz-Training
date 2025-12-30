@@ -1,6 +1,4 @@
-
-// Import Scanner class for taking user input
-import java.util.Scanner;
+import java.util.*;
 
 // TASK NODE CLASS 
 class TaskNode {
