@@ -1,5 +1,5 @@
 // Import HashSet class
-import java.util.HashSet;
+import java.util.*;
 
 public class LongestConsecutiveSequence {
 
