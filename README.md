@@ -392,6 +392,36 @@ Traversing arrays using loops
 
 ---
 
+## 📅 12-Jan-2026 (Monday)
+### 🔍 Regular Expressions (Regex) in Java
+- 📘 Studied **Regular Expressions**
+- 🧠 Learned:
+  - Regex patterns and syntax
+  - Character classes, quantifiers, and anchors
+  - Using `Pattern` and `Matcher` classes in Java
+- ✍️ Practiced regex-based programs for validation and pattern matching
+
+🔗 **java-regex Programs:**  
+👉 [java-regex](https://github.com/PandeyPankaj1234/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/java-regex)
+
+---
+
+## 📅 13-Jan-2026 (Tuesday)
+### 🧪 JUnit Testing in Java
+- 📘 Studied **JUnit Framework**
+- 🧠 Learned:
+  - Writing unit test cases
+  - Assertions and test annotations
+  - Testing positive and negative scenarios
+- ✍️ Solved and practiced **JUnit-based testing problems**
+
+🔗 **junit Code:**  
+👉 [junit](https://github.com/PandeyPankaj1234/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/junit/demo/demo/src)
+
+---
+
+
+
 
 ## ✨ Week 4 Highlights: Java Collections, Generics & Streams
 - ✔️ Strong understanding of **Java Generics**, bounded types, and wildcards
