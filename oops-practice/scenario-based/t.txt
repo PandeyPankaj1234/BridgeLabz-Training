@@ -1,0 +1,20 @@
+Flight Booking System
+Scenario:
+ Simulate a basic flight booking system where users can search flights, book them,
+and view booking details. 
+ Problem Requirements:
+● Use Array to store available flight data.
+● Store user bookings in a List.
+● Use String operations to allow case-insensitive flight search.
+● Use methods for searching, booking, and displaying bookings.  
+
+  Student Grading System
+Scenario:
+ Create a program to calculate and analyze student grades. Implement the following:
+● Store student details (name, ID) and their grades for multiple subjects in a 2D array.
+ ● Provide methods to calculate: 
+ ○ The total and average grade for each student. 
+ ○ The highest grade in each subject. 
+ ○ The overall class average.
+ ● Use exception handling to validate input (e.g., grades must be between 0 and 100).
+● Handle cases where a student’s record is incomplete or missing.
