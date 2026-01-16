@@ -91,7 +91,7 @@ Traversing arrays using loops
 
 ---
 
-# 🚀 Week 2: OOPs Concepts , Strings & its Methods
+# 🚀 Week 2: OOPs Concepts
 
 > **Focus:** String Fundamentals + Basic OOP Concepts  
 > **Duration:** 22 Dec 2025 – 26 Dec 2025
@@ -205,7 +205,7 @@ Traversing arrays using loops
 
 ---
 
-## ✨ Week 2 Highlights
+## ✨ Week 2 Highlights : OOPs Concepts
 - ✔️ Strong understanding of **Java Strings** and string manipulation
 - ✔️ Clear concept of **User Defined Methods** and modular coding
 - ✔️ Practiced **String extras** and comparison with built-in methods
@@ -303,9 +303,9 @@ Traversing arrays using loops
 
 ---
 
-# 🚀 Week 4: Java Collections, Generics & Streams
+# 🚀 Week 4: Java Collections, Generics, Streams & Advanced Java
 
-> **Focus:** Collections Framework + Generics + Streams + Exception Handling  
+> **Focus:** Collections Framework + Generics + Streams + Exception Handling + Advanced Java
 > **Duration:** 2 Jan 2026 – 9 Jan 2026
 
 ---
@@ -420,23 +420,47 @@ Traversing arrays using loops
 
 ---
 
+## 📅 14-Jan-2026 (Wednesday)
+### 🏷️ Annotations in Java
+- 📘 Studied **Java Annotations**
+- 🧠 Learned:
+  - Built-in annotations like `@Override`, `@Deprecated`, `@SuppressWarnings`
+  - Meta-annotations such as `@Retention`, `@Target`
+  - Custom annotations and their usage
+- ✍️ Practiced programs using annotations in real scenarios
 
+🔗 **annotations Code:**  
+👉 [annotations](https://github.com/PandeyPankaj1234/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/annotations)
 
+---
 
-## ✨ Week 4 Highlights: Java Collections, Generics & Streams
-- ✔️ Strong understanding of **Java Generics**, bounded types, and wildcards
-- ✔️ Practical experience with **Java Collection Framework** (List, Set, Map, Queue)
-- ✔️ Hands-on practice with **Java Streams** and I/O streams
-- ✔️ Solved **scenario-based problems** to strengthen OOPs concepts
-- ✔️ Learned **Exception Handling in Java**, including custom exceptions
-- ✔️ Improved code reliability using **try-catch-finally** blocks
-- ✔️ Strengthened overall Java proficiency through **revision and continuous practice**
+## 📅 15-Jan-2026 (Thursday)
+### 🔍 Reflection API in Java
+- 📘 Studied **Java Reflection API**
+- 🧠 Learned:
+  - Inspecting classes, methods, fields at runtime
+  - Using `Class`, `Method`, `Field`, and `Constructor` classes
+  - Dynamic object creation and method invocation
+- ✍️ Practiced reflection-based programs to understand runtime behavior
+
+🔗 **reflection Code:**  
+👉 [reflections](https://github.com/PandeyPankaj1234/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/reflections)
 
 ---
 
 
+## ✨ Week 4 Highlights: Java Collections, Generics, Streams & Advanced Java
+- ✔️ Gained strong understanding of **Java Generics**, including type parameters, bounded types, and wildcards
+- ✔️ Worked extensively with the **Java Collection Framework** (List, Set, Map, Queue)
+- ✔️ Learned and implemented **Java Streams** and file/byte I/O streams
+- ✔️ Strengthened problem-solving through **scenario-based OOPs practice**
+- ✔️ Developed solid knowledge of **Exception Handling**, including custom exceptions and try-catch-finally
+- ✔️ Practiced **Regular Expressions (Regex)** for pattern matching and validation
+- ✔️ Learned **JUnit Testing** for writing and validating unit test cases
+- ✔️ Studied and implemented **Java Annotations**, including custom annotations
+- ✔️ Gained hands-on experience with **Java Reflection API** for runtime class, method, and field inspection
+- ✔️ Improved overall Java proficiency through **continuous revision and hands-on coding**
 
-
-
+---
 
 📌 *More weeks and advanced topics coming soon...*
