@@ -1,4 +1,4 @@
-# 🚀 Week 1: Git, GitHub Setup & Core Java Basics
+# 🚀 Week 1:Core Programming
 
 > **Focus:** Version Control Fundamentals + Core Java Foundation  
 > **Duration:** 17 Dec 2025 – 20 Dec 2025  
@@ -77,7 +77,7 @@ Traversing arrays using loops
 
 ---
 
-## ✨ Week 1 Highlights
+## ✨ Week 1 Highlights : Core Programming
 
 ✔️ Solid understanding of Git & GitHub workflow
 
@@ -91,7 +91,7 @@ Traversing arrays using loops
 
 ---
 
-# 🚀 Week 2: OOPs Concepts
+# 🚀 Week 2: Object-Oriented-Programming
 
 > **Focus:** String Fundamentals + Basic OOP Concepts  
 > **Duration:** 22 Dec 2025 – 26 Dec 2025
@@ -205,7 +205,7 @@ Traversing arrays using loops
 
 ---
 
-## ✨ Week 2 Highlights : OOPs Concepts
+## ✨ Week 2 Highlights : Object-Oriented-Programming
 - ✔️ Strong understanding of **Java Strings** and string manipulation
 - ✔️ Clear concept of **User Defined Methods** and modular coding
 - ✔️ Practiced **String extras** and comparison with built-in methods
@@ -303,7 +303,7 @@ Traversing arrays using loops
 
 ---
 
-# 🚀 Week 4: Java Collections, Generics, Streams & Advanced Java
+# 🚀 Week 4: Java Collections,Streams
 
 > **Focus:** Collections Framework + Generics + Streams + Exception Handling + Advanced Java
 > **Duration:** 2 Jan 2026 – 9 Jan 2026
@@ -449,7 +449,7 @@ Traversing arrays using loops
 ---
 
 
-## ✨ Week 4 Highlights: Java Collections, Generics, Streams & Advanced Java
+## ✨ Week 4 Highlights: Java Collections,Streams
 - ✔️ Gained strong understanding of **Java Generics**, including type parameters, bounded types, and wildcards
 - ✔️ Worked extensively with the **Java Collection Framework** (List, Set, Map, Queue)
 - ✔️ Learned and implemented **Java Streams** and file/byte I/O streams
@@ -462,5 +462,57 @@ Traversing arrays using loops
 - ✔️ Improved overall Java proficiency through **continuous revision and hands-on coding**
 
 ---
+
+
+# 🚀 Week 5: IO Programming
+
+> **Focus:** File Handling + CSV Processing + JSON Data Handling  
+> **Duration:** 19 Jan 2026 – 20 Jan 2026
+
+---
+
+## 📅 19-Jan-2026 (Monday)
+### 📄 CSV Data Handling
+- 📘 Studied **CSV File Handling in Java**
+- 🧠 Learned:
+  - Reading data from CSV files
+  - Writing data into CSV files
+  - Parsing CSV records using Java I/O
+- ✍️ Practiced programs to process structured CSV data
+- 📤 Submitted CSV Data Handling assignment
+
+🔗 **csv-handling Codes:**  
+👉 [csv-handling](https://github.com/PandeyPankaj1234/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/csv-handling)
+
+---
+
+## 📅 20-Jan-2026 (Tuesday)
+### 📑 JSON Data Handling
+- 📘 Studied **JSON Data Processing in Java**
+- 🧠 Learned:
+  - Reading JSON files
+  - Writing JSON data
+  - Parsing JSON using Java libraries
+- ✍️ Practiced programs to handle structured JSON data
+- 📤 Submitted JSON Data Handling assignment
+
+🔗 **json handling Codes:**  
+👉 [json](https://github.com/PandeyPankaj1234/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/json/jsondemo/src/main/java/json)
+
+---
+
+
+## ✨ Week 5 Highlights: IO Programming
+- ✔️ Gained practical understanding of **Java File Handling and I/O operations**
+- ✔️ Worked with **CSV data processing**, including reading, writing, and parsing CSV files
+- ✔️ Implemented programs to handle **structured data using CSV format**
+- ✔️ Learned **JSON data handling in Java** for reading, writing, and parsing JSON files
+- ✔️ Practiced working with **real-world structured data formats**
+- ✔️ Improved understanding of **data persistence and file-based data processing**
+- ✔️ Successfully completed and submitted **CSV and JSON data handling assignments**
+
+---
+
+
 
 📌 *More weeks and advanced topics coming soon...*
