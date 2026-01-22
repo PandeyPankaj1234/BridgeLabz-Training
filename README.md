@@ -306,7 +306,7 @@ Traversing arrays using loops
 # 🚀 Week 4: Java Collections,Streams
 
 > **Focus:** Collections Framework + Generics + Streams + Exception Handling + Advanced Java
-> **Duration:** 2 Jan 2026 – 9 Jan 2026
+> **Duration:** 2 Jan 2026 – 15 Jan 2026
 
 ---
 
