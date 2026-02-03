@@ -501,15 +501,109 @@ Traversing arrays using loops
 
 ---
 
+## 📅 21-Jan-2026 (Wednesday)
+### 📑 JSON Deep Dive
+- 📘 Learned **JSON syntax and key-value structure**
+- 🧠 Understood:
+  - JSON objects
+  - JSON arrays
+- ✍️ Practiced:
+  - Creating JSON data
+  - Reading and parsing JSON in Java
+- ✅ Improved structured data handling and parsing skills
+
+---
+
+## 📅 22-Jan-2026 (Thursday)
+### 🚀 JSON Tasks & Java 8 Features
+- 📤 Submitted **JSON practice tasks and programs**
+- 🧪 Verified programs for:
+  - JSON read & write
+  - JSON merge
+  - Filtering and validation
+- 📘 Learned **Java 8 features**
+- 🧠 Practiced:
+  - Lambda Expressions
+- ✍️ Improved code readability and performance using modern Java features
+
+---
+
+## 📅 23-Jan-2026 (Friday)
+### 🗂️ Problem Solving & Revision
+- 🧩 Worked on **Address Book Problem**
+- 🔄 Revised **previous IO and JSON topics**
+- ✍️ Practiced **Lexical Twist problem**
+- 🧠 Strengthened logic-building and problem-solving skills
+
+---
+
 
 ## ✨ Week 5 Highlights: IO Programming
-- ✔️ Gained practical understanding of **Java File Handling and I/O operations**
-- ✔️ Worked with **CSV data processing**, including reading, writing, and parsing CSV files
-- ✔️ Implemented programs to handle **structured data using CSV format**
-- ✔️ Learned **JSON data handling in Java** for reading, writing, and parsing JSON files
-- ✔️ Practiced working with **real-world structured data formats**
-- ✔️ Improved understanding of **data persistence and file-based data processing**
-- ✔️ Successfully completed and submitted **CSV and JSON data handling assignments**
+- ✔️ Built strong understanding of **Java I/O and File Handling**
+- ✔️ Practiced **CSV data processing**, including reading, writing, and parsing
+- ✔️ Gained in-depth knowledge of **JSON structure, objects, and arrays**
+- ✔️ Implemented JSON operations such as **read, write, merge, filter, and validation**
+- ✔️ Strengthened structured data handling using **JSON in Java**
+- ✔️ Learned and applied **Java 8 features**, including Lambda Expressions
+- ✔️ Improved code readability, performance, and modern Java practices
+- ✔️ Worked on real-world problems like **Address Book** and **Lexical Twist**
+- ✔️ Reinforced concepts through **revision and hands-on practice**
+
+---
+
+# 🚀 Week 6: Java 8 and Its Features
+
+> **Focus:** Functional Programming + Lambda Expressions + Streams + JUnit  
+> **Duration:** 27 Jan 2026 – 30 Jan 2026
+
+---
+
+## 📅 27-Jan-2026 (Tuesday)
+### ⚙️ Java 8 Basics & Lambda Expressions
+- 🧩 Created and pushed a new Git branch: **java8-features-practice**
+- 📘 Practiced **Lambda Expression** problems
+- 🧠 Learned:
+  - Sorting using Lambda expressions
+  - Using `Comparator` with Lambda
+- ✍️ Implemented **Predicate-based filtering** examples
+- ✅ Improved understanding of **functional programming** concepts in Java 8
+
+---
+
+## 📅 28-Jan-2026 (Wednesday)
+### 🧬 Functional Interfaces in Java 8
+- 📘 Practiced **Lambda Expression** problems in depth
+- 🧠 Learned and implemented **Functional Interfaces**
+- ✍️ Worked with:
+  - `Predicate`
+  - `Function`
+  - `Consumer`
+- ✅ Strengthened understanding of **functional programming paradigms**
+
+---
+
+## 📅 29-Jan-2026 (Thursday)
+### 🌍 Scenario-Based Problem Solving
+- 🧩 Solved real-world scenario-based problems:
+  - **FutureLogistics**
+  - **AeroVigil**
+- 🧠 Applied Java concepts to practical problem statements
+- ✍️ Focused on **logic building** and **edge-case handling**
+- 📤 Pushed all solutions to GitHub repository
+
+---
+
+## 📅 30-Jan-2026 (Friday)
+### 🌊 Streams, Collectors & Testing
+- 📘 Studied **Java Stream API** and **Collectors** in detail
+- 🧠 Practiced:
+  - `map()`
+  - `filter()`
+  - `forEach()`
+  - `groupingBy()`
+  - `summarizing` collectors
+- 🧪 Solved scenario-based problems using **JUnit test cases**
+- ⚠️ Worked with **exception handling**, including custom and built-in exceptions
 
 ---
 
