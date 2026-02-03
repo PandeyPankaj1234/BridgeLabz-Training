@@ -607,6 +607,14 @@ Traversing arrays using loops
 
 ---
 
+## ✨ Week 6 Highlights: Java 8 and Its Features
+- ✔️ Strong understanding of **Java 8 functional programming**
+- ✔️ Hands-on experience with **Lambda Expressions and Functional Interfaces**
+- ✔️ Practical use of **Streams API and Collectors**
+- ✔️ Applied Java concepts to **real-world scenario-based problems**
+- ✔️ Improved testing skills using **JUnit**
+- ✔️ Strengthened code quality through **exception handling and clean logic**
+
 
 
 📌 *More weeks and advanced topics coming soon...*
