@@ -615,6 +615,79 @@ Traversing arrays using loops
 - ✔️ Improved testing skills using **JUnit**
 - ✔️ Strengthened code quality through **exception handling and clean logic**
 
+---
+
+# 🚀 Week 7: Solution Designing 
+
+> **Focus:** GoF Design Patterns + Solution Architecture + Scenario Systems  
+> **Duration:** 31 Jan 2026 – 04 Feb 2026
+
+---
+
+## 📅 31-Jan-2026 (Friday)
+### 🧩 GoF Design Patterns – Foundations
+- 🔹 Explored **Introduction to GoF Design Patterns** and their importance
+- 🧠 Studied GoF Categories:
+  - Creational Patterns
+  - Behavioral Patterns
+- ⚙️ Implemented:
+  - Singleton Pattern
+  - Factory Pattern
+  - Observer Pattern
+  - Builder Pattern
+- 📐 Designed **UML diagrams** for GoF patterns
+- 🤖 Solved scenario-based problem:  
+  **Factory Pattern – Robot Hazard Analyzer**
+- 📌 Pushed practice code to **dsa-practice branch** on GitHub
+
+---
+
+## 📅 02-Feb-2026 (Monday)
+### 🌊 Streams, Testing & Workshop Implementation
+- 🧪 Solved **JUnit scenario-based problems**  
+  → Pushed test cases to **io-practice**
+- 🌊 Practiced **StreamBuzz** scenario problem  
+  → Pushed solution to collection-based scenarios
+- ⚙️ Attended **Workshop on Java 8 Features**
+- 🏙️ Worked on **Smart City Transport & Service Management System**
+- 💡 Applied concepts:
+  - Streams
+  - Lambda Expressions
+  - Functional Interfaces
+- 📌 Pushed complete workshop project to  
+  **java8-features-practice branch**
+
+---
+
+## 📅 03-Feb-2026 (Tuesday)
+### 🧵 Multithreading in Java
+- 🔹 Learned **Multithreading concepts**
+- ⚙️ Practiced thread creation using:
+  - `Thread` class
+  - `Runnable` interface
+- 🔄 Studied **Thread Life Cycle & States**
+- 🌊 Solved scenario-based problem:  
+  **OceanFleet System** using collections
+- 📌 Pushed solution to **collection-practice branch** on GitHub
+
+---
+
+## 📅 04-Feb-2026 (Wednesday)
+### 📚 Collection-Based Scenario Systems
+- 🍔 Implemented **Food Delivery Order Routing System**
+  - Used Queue & List collections
+  - Assigned orders FIFO to nearest available agent
+  - Applied OOP design principles
+  - ⚠️ Handled agent unavailability using  
+    `NoAgentAvailableException`
+
+- 🎓 Built **Online Classroom Attendance Tracker**
+  - Used Set & Map for session-wise tracking
+  - Prevented duplicate entries
+  - 🚫 Implemented  
+    `DuplicateAttendanceException`
+
+---
 
 
 📌 *More weeks and advanced topics coming soon...*
