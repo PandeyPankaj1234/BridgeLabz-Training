@@ -689,5 +689,62 @@ Traversing arrays using loops
 
 ---
 
+## ✨ Week 7 Highlights: Solution Designing 
+- ✔️ Gained strong understanding of **GoF Design Patterns** (Creational & Behavioral)
+- ✔️ Implemented core patterns: **Singleton, Factory, Observer, Builder**
+- ✔️ Designed **UML diagrams** for better system visualization
+- ✔️ Applied Factory Pattern in real-world scenario: **Robot Hazard Analyzer**
+- ✔️ Strengthened testing skills with **JUnit scenario-based test cases**
+- ✔️ Applied **Streams, Lambda Expressions, and Functional Interfaces** in workshop projects
+- ✔️ Built system-level solutions like **Smart City Transport & Service Management**
+- ✔️ Learned and implemented **Multithreading concepts** using Thread & Runnable
+- ✔️ Understood **Thread Life Cycle and States**
+- ✔️ Designed collection-based systems:
+  - Food Delivery Order Routing System
+  - Online Classroom Attendance Tracker
+- ✔️ Implemented **custom exceptions** for real-world validation handling
+- ✔️ Improved solution design thinking, system architecture skills, and clean OOP implementation
+
+---
+
+# 🚀 Week 8: Multi-Threading & Database Concepts
+
+> **Focus:** Multithreading in Java + DBMS & MySQL Indexing  
+> **Duration:** 05 Feb 2026 – 06 Feb 2026
+
+---
+
+## 📅 05-Feb-2026 (Thursday)
+### 🧵 Multi-Threading Fundamentals
+- 📘 Learned basics of **Multi-Threading in Java**
+- ⚙️ Created threads using:
+  - `Thread` class
+  - `Runnable` interface
+- 🧠 Understood difference between **Thread vs Runnable**
+- 🔄 Studied **Thread Life Cycle, States, and Thread Methods**
+- 🧩 Solved scenario-based problem:  
+  **EchoWeave Encryption String**
+- 🖥️ Implemented **CoolTrack – Data Center Monitoring System**
+  - Used Collections
+  - Applied multithreading concepts in system design
+
+---
+
+## 📅 06-Feb-2026 (Friday)
+### 🗄️ DBMS & MySQL Indexing
+- 📚 Learned **DBMS concepts** with focus on MySQL
+- 📌 Covered:
+  - Introduction to Indexing
+  - Types of Indexes
+  - How Indexes Work
+- 🛠️ Practiced creating and managing **Indexes**
+- ⚡ Understood performance considerations and optimization using indexing
+- 🔄 Revised **Multi-Threading concepts and thread lifecycle**
+- 💻 Completed hands-on MySQL tutorial examples
+
+---
+
+
+
 
 📌 *More weeks and advanced topics coming soon...*
